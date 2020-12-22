@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "printWidth": 120,
+  "overrides": []
+}
